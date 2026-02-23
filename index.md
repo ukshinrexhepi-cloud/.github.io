@@ -3,7 +3,7 @@
 Willkommen. Hier veröffentliche ich meine Arbeiten, Preprints und zusätzliche Materialien.
 
 ## Arbeiten (PDF)
-- [Titel 1 – PDF](./papers/titel-1.pdf)
+- [Light in Light – Redshift and Cosmic Microwave Backround](./papers/light-in-light-redshift-and-cosmic-microwave-backround.pdf)
 - [Titel 2 – PDF](./papers/titel-2.pdf)
 
 ## Kontakt
