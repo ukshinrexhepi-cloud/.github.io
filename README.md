@@ -1,2 +1,2 @@
 # .github.io
-Universal Quantum Foam Hypthesis / Universelle Quanten-Schaum-Hypothese (UQSH)
+Universal Quantum Foam Hyopthesis / Universelle Quanten-Schaum-Hypothese (UQSH)
